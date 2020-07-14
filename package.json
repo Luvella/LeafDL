@@ -1,0 +1,34 @@
+{
+  "name": "@terminalfreaks/leaf",
+  "version": "1.0.0",
+  "description": "A fully featured image and video downloader (Gelbooru, nekos.life, etc. and custom direct links).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terminalfreaks/Leaf.git"
+  },
+  "keywords": [
+    "downloader",
+    "cli",
+    "command",
+    "terminal",
+    "images",
+    "tool",
+    "media",
+    "command-line-interface"
+  ],
+  "author": "Terminalfreaks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terminalfreaks/Leaf/issues"
+  },
+  "homepage": "https://github.com/Terminalfreaks/Leaf#readme",
+  "dependencies": {
+    "@terminalfreaks/clover": "^1.1.0",
+    "loggaby": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
