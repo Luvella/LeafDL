@@ -4,7 +4,9 @@
 			"booru": false,
 			"containsNsfw": true,
 			"commandFile": "nekos-life",
-			"aliases": ["nekoslife", "nl", "nekos"]
+			"api": {
+				"img": "https://nekos.life/api/v2/img/"
+			}
 		}
 	}
 }
