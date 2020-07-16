@@ -1,5 +1,10 @@
 {
-	"sitelist": [
-		"nekos.life"
-	]
+	"sitelist": {
+		"nekos.life": {
+			"booru": false,
+			"containsNsfw": true,
+			"commandFile": "nekos-life",
+			"aliases": ["nekoslife", "nl", "nekos"]
+		}
+	}
 }
