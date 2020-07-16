@@ -40,6 +40,7 @@ if(command === "site") {
 		return logger.log("You might want to check --list for a list of site names.")
 	}
 	// Pseudo command handler
+	// TODO: Add aliases
 	if(!Object.keys(sitelist).includes(options.name[0])) {
 		logger.fatal("Site provided to download from is not supported.")
 		return logger.log("You might want to check --list for a list of site names.")

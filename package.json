@@ -1,6 +1,6 @@
 {
-  "name": "@terminalfreaks/leaf",
-  "version": "1.0.0",
+  "name": "leafdl",
+  "version": "1.1.0",
   "description": "A fully featured image and video downloader (Gelbooru, nekos.life, etc. and custom direct links).",
   "main": "index.js",
   "scripts": {
@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/Terminalfreaks/Leaf#readme",
   "dependencies": {
-    "@terminalfreaks/clover": "^1.1.0",
-    "loggaby": "^1.0.0",
+    "@terminalfreaks/clover": "^1.1.2",
+    "loggaby": "^1.0.1",
     "node-fetch": "^2.6.0"
   }
 }
